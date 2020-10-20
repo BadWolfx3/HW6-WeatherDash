@@ -1,0 +1,52 @@
+/*
+#323633
+*/
+
+* {
+    font-family: 'Exo', sans-serif;
+}
+
+div.jumbotron.jumbotron-fluid.mb-0.pb-2{
+    background-color: #323633;
+}
+
+.display-4{
+    color: white;
+    text-align: center;
+}
+
+
+.body {
+    cursor: pointer;
+    font-family: 'Exo', sans-serif;
+  }
+  
+  #cityList {
+    cursor: pointer;
+  }
+  
+  .low {
+    border-radius: 6px;
+    background-color: green;
+    padding: 5px;
+  }
+  
+  .moderate {
+    border-radius: 6px;
+    background-color: rgb(233, 114, 2);
+    padding: 5px;
+  }
+  
+  .high {
+    border-radius: 6px;
+    background-color: red;
+    padding: 5px;
+  }
+
+  span.bg-danger.text-white.moderate {
+      border-radius: 5px;
+  }
+
+  .card-body {
+      border-radius: 10px;
+  }
